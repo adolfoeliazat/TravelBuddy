@@ -8,7 +8,7 @@ It's created for school project and also as a side-project for [Travel Around - 
 
 Scan the code:
 
-[![Messenger code](assets/code/messenger_code.png)](https://m.me/travelaroundsp)
+[![Messenger code](assets/code/messenger_code_300x300.png)](https://m.me/travelaroundsp)
 
 Or go to [https://m.me/travelaroundsp](https://m.me/travelaroundsp).
 
